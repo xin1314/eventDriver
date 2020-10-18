@@ -1,0 +1,1 @@
+EVENT_TIMER = "计时器"
